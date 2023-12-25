@@ -6,21 +6,24 @@ PC
 Anaconda - Python 3.7
 ## ALGORITHM: 
 ### Step 1:
-
+import sys
 ### Step 2: 
- 
+Then declare count is equal to 0
 ### Step 3: 
-
+read the file with python file name
 ### Step 4:  
-
+splitting the word
 ### Step 5: 
-
+After splitting count the number of words in the line
 ### Step 6: 
-
+In last statement give the print statement
 ## PROGRAM:
+![](5b2.jpg)
+![](5b1.png)
+
 
 ### OUTPUT:
-
+![](5b3-1.jpg)
 
 
 ## RESULT:
