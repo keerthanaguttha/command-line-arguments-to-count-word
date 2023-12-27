@@ -18,11 +18,22 @@ After splitting count the number of words in the line
 ### Step 6: 
 In last statement give the print statement
 ## PROGRAM:
-![](5b2.jpg)
-![](5b1.png)
+```
+'''
+Developed by : GUTTHA KEERTHANA
+Registered number : 212223240045
+'''
+import sys
+file= open(sys.argv[1])
+data=file.read()
+words=data.split()
+print("Total Words:",len(words))
+```
 
 
 ### OUTPUT:
+![](5b2.jpg)
+![](5b1.png)
 ![](5b3-1.jpg)
 
 
